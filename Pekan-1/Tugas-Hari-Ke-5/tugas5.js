@@ -18,7 +18,7 @@ console.log(hasilKali) // 48
 
 // soal - 3
 function introduce(name, age, address, hobby) {
-   var kalimat = "Nama saya " + name + ", umur saya " + age+" tahun, alamat saya di " + address + ", dan saya punya hobby yaitu " + hobby;
+    var kalimat = "Nama saya " + name + ", umur saya " + age + " tahun, alamat saya di " + address + ", dan saya punya hobby yaitu " + hobby;
     return kalimat;
 }
 var name = "Helmi"
